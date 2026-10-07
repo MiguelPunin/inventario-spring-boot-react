@@ -1,0 +1,8 @@
+{
+  "name": "tarea-crud-login",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"build": "esbuild frontend/App.jsx --bundle --minify --outfile=src/main/resources/static/app.js"},
+  "dependencies": {"react": "19.1.0", "react-dom": "19.1.0"},
+  "devDependencies": {"esbuild": "0.25.5"}
+}

@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/target": true,
+    "**/oracleJdk*": true,
+    "**/datos": true,
+    "src/main/resources/static/app.js": true,
+    "src/main/resources/static/app.css": true
+  }
+}

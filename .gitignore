@@ -1,0 +1,11 @@
+target/
+node_modules/
+datos/
+src/main/resources/static/app.js
+src/main/resources/static/app.css
+.idea/
+.vscode/
+!/.vscode/
+/.vscode/*
+!/.vscode/settings.json
+frontend/oracleJdk*/
